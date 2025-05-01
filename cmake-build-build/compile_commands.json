@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/yassi/Downloads/Telegram Desktop/Vulkanass/advanced-computer-graphics-in-game-development/cmake-build-build",
+  "command": "C:\\Users\\yassi\\AppData\\Local\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -O3 -DNDEBUG -std=c++11 -o external\\tinygltf\\CMakeFiles\\loader_example.dir\\loader_example.cc.obj -c \"C:\\Users\\yassi\\Downloads\\Telegram Desktop\\Vulkanass\\advanced-computer-graphics-in-game-development\\external\\tinygltf\\loader_example.cc\"",
+  "file": "C:\\Users\\yassi\\Downloads\\Telegram Desktop\\Vulkanass\\advanced-computer-graphics-in-game-development\\external\\tinygltf\\loader_example.cc"
+},
+{
+  "directory": "C:/Users/yassi/Downloads/Telegram Desktop/Vulkanass/advanced-computer-graphics-in-game-development/cmake-build-build",
+  "command": "C:\\Users\\yassi\\AppData\\Local\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -O3 -DNDEBUG -std=c++11 -o external\\tinygltf\\CMakeFiles\\tinygltf.dir\\tiny_gltf.cc.obj -c \"C:\\Users\\yassi\\Downloads\\Telegram Desktop\\Vulkanass\\advanced-computer-graphics-in-game-development\\external\\tinygltf\\tiny_gltf.cc\"",
+  "file": "C:\\Users\\yassi\\Downloads\\Telegram Desktop\\Vulkanass\\advanced-computer-graphics-in-game-development\\external\\tinygltf\\tiny_gltf.cc"
+}
+]

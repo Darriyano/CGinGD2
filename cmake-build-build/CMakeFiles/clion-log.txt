@@ -1,0 +1,7 @@
+"C:\Users\yassi\AppData\Local\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=C:/Users/yassi/AppData/Local/JetBrains/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Users\yassi\Downloads\Telegram Desktop\Vulkanass\advanced-computer-graphics-in-game-development" -B "C:\Users\yassi\Downloads\Telegram Desktop\Vulkanass\advanced-computer-graphics-in-game-development\cmake-build-build"
+-- Including Win32 support
+-- GLM: Version 1.0.0
+-- GLM: Build with C++ features auto detection
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/yassi/Downloads/Telegram Desktop/Vulkanass/advanced-computer-graphics-in-game-development/cmake-build-build
